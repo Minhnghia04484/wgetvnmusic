@@ -4,8 +4,10 @@
 Shell script download automatically music file from three website: 
 [Zing mp3][mp3Zing], 
 [Nhac cua tui][nhacCuaTui]
+[nhac so] [nhac so]
 [mp3Zing]: http://mp3.zing.vn
 [nhacCuaTui]: http://nhaccuatui.com
+[nhacso]: http://nhacso.com
 
 ## Feature
 
