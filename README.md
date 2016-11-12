@@ -1,8 +1,7 @@
 
 ## Wgetvnmusic
 
-Shell script download automatically music file from three website: 
-[Zing mp3][mp3Zing], 
+Shell script download automatically music file from three website:  
 [Nhac cua tui][nhacCuaTui],
 [nhac so] [nhacso]
 [nhacCuaTui]: http://nhaccuatui.com
