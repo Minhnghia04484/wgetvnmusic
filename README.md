@@ -43,8 +43,8 @@ Shell script download automatically music file from three website:
 
 ## Installation
 
-```
-    git clone https://github.com/luoi/wgetvnmusic
+```    git clone https://github.com/luoi/wgetvnmusic
+https://github.com/Minhnghia04484/wgetvnmusic
     cd wgetvnmusic/
     chmod +x install.sh
     [sudo] ./install.sh
